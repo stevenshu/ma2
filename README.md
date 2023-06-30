@@ -1,0 +1,2 @@
+# ma2
+magento
